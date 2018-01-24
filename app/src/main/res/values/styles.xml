@@ -1,0 +1,88 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- estilo de boton . -->
+
+
+
+
+    <style name="estiloboton">
+
+        <item name="android:textColor">@color/colorboton</item>
+        <item name="android:textSize">@dimen/tamaletraboton</item>
+        <item name="android:shadowColor">@color/colorsombra</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">5</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:background">@drawable/estiloboton</item>
+
+
+    </style>
+
+
+
+
+    <style name="botoncancelar">
+        <item name="android:textColor">@color/botoncancelar</item>
+        <item name="android:shadowColor">@color/botoncancelarsombra</item>
+        <item name="android:text">@string/textocancelar</item>
+        <item name="android:textSize">@dimen/tamanoletracancelar</item>
+        <item name="android:shadowDx">20</item>
+        <item name="android:shadowDy">5</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:background">@drawable/cancelar</item>
+    </style>
+
+
+
+
+
+
+    android:background="@drawable/buttonshape"
+
+    <style name="botonsiguiente">
+        <item name="android:text">@string/siguiente</item>
+        <item name="android:textColor">@color/botoncancelar</item>
+        <item name="android:shadowColor">@color/botoncancelarsombra</item>
+        <item name="android:shadowDx">20</item>
+        <item name="android:shadowDy">5</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:textSize">@dimen/tamaletraboton</item>
+        <item name="android:background">@drawable/siguiente</item>
+
+    </style>
+
+
+    <style name="botonanterior">
+        <item name="android:text">@string/anterior</item>
+        <item name="android:color">@color/botoncancelar</item>
+        <item name="android:shadowColor">@color/botoncancelarsombra</item>
+        <item name="android:background">@drawable/anterior</item>
+        <item name="android:textSize">@dimen/tamaletraboton</item>
+
+    </style>
+
+
+    <style name="estilocajatexto">
+        <item name="android:background">@color/marron</item>
+        <item name="android:layout_marginTop">@dimen/margensuperior</item>
+        <item name="android:layout_marginBottom">@dimen/margeninferior</item>
+        <item name="android:layout_marginLeft">@dimen/margenleft</item>4
+        <item name="android:layout_marginRight">@dimen/margenright</item>
+
+
+
+
+
+
+    </style>
+
+
+</resources>

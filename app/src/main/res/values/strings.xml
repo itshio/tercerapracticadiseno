@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tercerapracticadiseno</string>
+
+    <!-- ejercicio. -->
+    <string name="textoboton">ok</string>
+    <string name="textocancelar">cancelar</string>
+    <string name="siguiente">siguiente</string>
+    <string name="anterior">anterior</string>
+
+
+
+
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- colores de botones. -->
+
+    <color name="colorboton">#FFFFFF</color>
+    <color name="colorsombra">#000000</color>
+
+    <!-- colores de botones ejercicio 2. -->
+    <color name="botoncancelar">#FFFFFF</color>
+    <color name="botoncancelarsombra">#000000</color>
+
+
+
+    <!-- colores random. -->
+
+    <color name="marron">#FFBE69</color>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

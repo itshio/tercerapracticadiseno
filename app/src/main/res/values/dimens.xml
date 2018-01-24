@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="tamaletraboton">30sp</dimen>
+    <dimen name="tamanoletracancelar">30sp</dimen>
+<dimen name="margensuperior">25dp</dimen>
+    <dimen name="margeninferior">25dp</dimen>
+    <dimen name="margenleft">10dp</dimen>
+    <dimen name="margenright">10dp</dimen>
+
+   >
+
+
+
+
+
+
+
+
+</resources>
